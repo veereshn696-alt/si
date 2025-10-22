@@ -9,3 +9,4 @@ T = 3       # Time in years
 SI = (P * R * T) / 100
 
 print("Simple Interest: ₹", SI)
+print("hlo")
